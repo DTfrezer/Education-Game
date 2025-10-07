@@ -61,6 +61,7 @@ my-cybersecurity-game/
 
 🕹️ Gameplay Overview
 Mission	Description	Objective
+
 🔐 Password Strength	Learn how attackers guess weak passwords	Create a strong password to protect your system
 
 🔥 Firewall Defense	Learn network protection basics	Configure correct firewall rules
@@ -69,6 +70,7 @@ Mission	Description	Objective
 
 
 📸 Screenshots
+
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aa591c88-0776-4fe8-af67-9e7a287d0007" />
@@ -96,6 +98,8 @@ Mission	Description	Objective
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1227bad3-d29e-4b29-a63a-d11ab1235315" />
+
+
 
 🧠 Future Enhancements
 
